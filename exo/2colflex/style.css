@@ -1,0 +1,38 @@
+body{
+width: 100vw;
+height: 100vh;
+margin: 0;
+
+
+}
+
+#container{
+  padding: 0;
+  display: flex;
+}
+
+.gauche{
+ width: 25%;
+ height: 100vh;
+ background-color: red;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ font-size: 2em;
+
+}
+
+p{
+height: 32vh;
+background-color: blue;
+width: 75vw;
+
+
+}
+
+li{
+margin-bottom: 50px;
+
+
+}
